@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoskildeSkiShop", "RoskildeSkiShop\RoskildeSkiShop.csproj", "{94E5D4CF-847F-438F-9E58-4B2EE9ED2A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiShopConsumer", "SkiShopConsumer\SkiShopConsumer.csproj", "{02C152F5-7FBF-478A-9119-A9C38B05A23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E5D4CF-847F-438F-9E58-4B2EE9ED2A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E5D4CF-847F-438F-9E58-4B2EE9ED2A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E5D4CF-847F-438F-9E58-4B2EE9ED2A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E5D4CF-847F-438F-9E58-4B2EE9ED2A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C152F5-7FBF-478A-9119-A9C38B05A23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C152F5-7FBF-478A-9119-A9C38B05A23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C152F5-7FBF-478A-9119-A9C38B05A23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C152F5-7FBF-478A-9119-A9C38B05A23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34142FE3-E52E-412A-AE93-EE2E12C2E4E0}
+	EndGlobalSection
+EndGlobal
